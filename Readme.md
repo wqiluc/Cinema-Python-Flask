@@ -18,7 +18,7 @@ Estruturação de um projeto **Flask com templates e CSS**
 </a>
  </div>
 
-**📂 Estrutura do Projeto**:
+**🗂️📂 Estrutura do Projeto**:
 
 <pre>
 Cinema Python/
