@@ -28,11 +28,15 @@ Cinema Python/
 |-- .flaskenv
 |-- LICENSE
 |-- venv/
+|-- procfile
+|-- requirements.txt
 |
 |-- backending/
 |   |-- Cinema.py
 |   |-- gerenciador_dados.py
 |   `-- __init__.py
+|   `-- Dados/
+|       `-- Dados_ingressos_cinema.json
 |
 |-- static/
 |   `-- styles.css
