@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+
+{% block conteudo %}
+
+<h1>Pagamento 💰</h1>
+
+<p>Total: R$ {{totalRS}}</p>
+
+<form id="filme" action="{{url_for('resumo')}}" methods="get">
+    <input type="hidden" name="totalRS" value="{{totalRS}}">
+    <input type="hidden" name="qtd" value="{{acumuladores['ingressos_dia']}}">
+
+    <button type="button" id="cartao">Cartão</button>
+    <button type="button" id="dinheiro">Dinheiro</button>
+
+    <div id="vd" style="display:none;">
+        <input type="number" step="0.01" id="p" placeholder="R$">
+        <button type="submit" id="cd">Confirmar</button>
+    </div>
+</form>
+
+<script>
+let total = Number("{{total}}");
+let f = document.getElementById("filme");
+let c = document.getElementById("cartao");
+let d = document.getElementById("dinheiro");
+let vd = document.getElementById("vd");
+let p = document.getElementById("p");
+let cd = document.getElementById("cd");
+
+c.onclick = () => f.submit();
+d.onclick = () => vd.style.display = "block";
+
+cd.onclick = e => {if (parseFloat(p.value) < total) {
+    e.preventDefault();
+    alert("Valor insuficiente");}};
+</script>
+{% endblock %}

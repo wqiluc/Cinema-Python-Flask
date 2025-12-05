@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block header %}
+<h1>Nova Compra 🛒✅</h1>
+{% endblock %}
+
+{% block conteudo %}
+<p>Acumulado do dia: R$ {{resumo.total}} 
+    | Ingressos vendidos: {{resumo.ingressos}}</p>
+
+<a href="{{url_for('index')}}"><button>Iniciar Nova Compra</button></a>
+{% endblock %}

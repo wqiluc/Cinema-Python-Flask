@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="PT-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Cinema Python</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css')}}">
+</head>
+<body>
+    <div class="principal">
+        <header>
+            {% block header %}{% endblock %}
+        </header>
+
+        <div class="secundaria">
+            {% block conteudo %}{% endblock %}
+        </div>
+
+        <footer>
+            &copy; 2025, Cinema Python🐍💙💛
+        </footer>
+    </div>
+</body>
+</html>

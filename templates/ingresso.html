@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{% block header %}
+<h1>Comprar Ingresso 🎫 🛒</h1>
+{% endblock %}
+
+{% block conteudo %}
+<form action="{{url_for('confirmar')}}" methods="get">
+    <label>Idade do cliente:</label>
+    <input type="number" name="idade" value="{{idade or ''}}" required style=
+    "width:80px; padding:5px; font-size:14px;">
+
+    <br><br>
+
+    <label>Tipo de ingresso:</label>
+    <select name="extra" required>
+        <option value="1">Inteira - R$30</option>
+        <option value="2">Meia-entrada - R$15</option>
+        <option value="3">Promocional - R$21</option>
+        <option value="4">Gratuita - R$0</option>
+    </select>
+    <br><br>
+    <button type="submit">Confirmar Ingresso</button>
+</form>
+{% endblock %}

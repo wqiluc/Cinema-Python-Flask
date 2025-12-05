@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block header %}
+<h1>BEM-VINDO(a) ao CINEMA PYTHON 🐍💛💙</h1>
+<h2>Escolha um filme e sessão:</h2>
+{% endblock %}
+
+{% block conteudo %}
+<form action="{{ url_for('ingresso') }}" methods="get">
+    <label>Filme:</label>
+    <select name="filmes">
+        {% for filme in filmes %}
+            <option value="{{filme}}">{{filme}}</option>
+        {% endfor %}
+    </select>
+    <br><br>
+    <label>Sessão:</label>
+    <select name="sessoes">
+        {% for sessao in sessoes %}
+            <option value="{{sessao}}">{{sessao}}</option>
+        {% endfor %}
+    </select>
+    <br><br>
+    <button type="submit">Próximo</button>
+</form>
+{% endblock %}
