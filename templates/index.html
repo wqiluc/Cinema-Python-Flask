@@ -6,7 +6,7 @@
 {% endblock %}
 
 {% block conteudo %}
-<form action="{{ url_for('ingresso') }}" methods="get">
+<form action="{{ url_for('ingresso') }}" method="get">
     <label>Filme:</label>
     <select name="filmes">
         {% for filme in filmes %}
@@ -23,4 +23,8 @@
     <br><br>
     <button type="submit">Próximo</button>
 </form>
+{% endblock %}
+
+{% block scripts %}
+<script src="{{ url_for('static', filename='alerta_reinicio.js') }}"></script>
 {% endblock %}
