@@ -54,9 +54,15 @@ Cinema Python/
 **💻 Tecnologias Utilizadas**:
 
 <div align="center">
+
+<div style="text-align: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="110" style="margin: 0 30px;">
+  <img src="https://raw.githubusercontent.com/wqiluc/Cinema-Python-Flask/main/img/flask.jpg" width="100" style="margin: 0 30px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="110" height="110" style="margin: 0 15px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="110" height="110" style="margin: 0 15px;">
+</div>
+
+
+
   
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="110" style="margin-right: 15px;">
-<img src="https://raw.githubusercontent.com/wqiluc/Cinema-Python-Flask/main/img/flask.jpg" width="100">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="110" height="110" style="margin: 20px;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="110" height="110" style="margin: 20px;">
 
