@@ -34,9 +34,9 @@ Cinema Python/
 |-- backending/
 |   |-- Cinema.py
 |   |-- gerenciador_dados.py
-|   `-- __init__.py
+|   `-- __init__.py 
 |   `-- Dados/
-|       `-- Dados_ingressos_cinema.json
+|       `-- Dados_ingressos_cinema.json **(ao rodar o programa pela 1a vez)**
 |
 |-- static/
 |   `-- styles.css
