@@ -1,0 +1,1 @@
+web: guicorn -b :$PORT main:app
