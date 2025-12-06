@@ -14,8 +14,7 @@ Estruturação de um projeto **Flask com templates e CSS**
 - Cesar School — ADS 🧡💻
 <div align="center">
 <br> <a href='https://www.instagram.com/lucpaguetti/' target="_blank"> <img src="https://cdn.simpleicons.org/instagram/E4405F" width="45" /> </a> &nbsp;&nbsp;&nbsp; <a href="https://github.com/wqiluc" target="_blank"> <img src="https://cdn.simpleicons.org/github/ffffff" width="45" /> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/lucas-paguetti-pereira-70267339b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"> <a href="https://www.linkedin.com/in/lucas-paguetti-pereira-70267339b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="45">
-</a>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/json.svg" width="110" height="110" style="margin: 0 15px;">
  </div>
 
 **🗂️📂 Estrutura do Projeto**:
@@ -53,20 +52,17 @@ Cinema Python/
 </pre>
 
 **💻 Tecnologias Utilizadas**:
-
-<div align="center">
-<div style="text-align: center;">
+<p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="110" style="margin: 0 30px;">
   <img src="https://raw.githubusercontent.com/wqiluc/Cinema-Python-Flask/main/img/flask.jpg" width="100" style="margin: 0 30px;">
+</p>
+<p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="110" height="110" style="margin: 0 15px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="110" height="110" style="margin: 0 15px;">
+</p>
+<p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="90" height="90" style="margin: 0 15px;">
-  <<a href="https://api.openai.com/v1/images/8275295b-6143-414d-a6af-835959a6099d" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/JSON_logo.svg" width="110" height="110" style="margin: 0 15px;">
-</a>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/json.svg" width="110" height="110" style="margin: 0 15px;">
+</p>
 
-</div>
-
-
-  
 
