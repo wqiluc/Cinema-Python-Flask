@@ -1,6 +1,6 @@
 **🎫🍿🎬 Cinema Interativo em Python (Flask)** 🎬🍿🎫
 
-Sistema de compra de ingressos totalmente interativo, desenvolvido em **Python + Flask**.
+Sistema de compra de ingressos totalmente interativo, desenvolvido em **Python + Flask**.🐍💙💛⚡️
 
 Criado para fins educacionais, ajudando outras pessoas a aprenderem:
 Estruturas de repetição;
