@@ -12,10 +12,18 @@ Estruturação de um projeto **Flask com templates e CSS**
 **👨🏻‍💻 Autor**:
 - Lucas Paguetti Pereira
 - Cesar School — ADS 🧡💻
-<div align="center">
-<br> <a href='https://www.instagram.com/lucpaguetti/' target="_blank"> <img src="https://cdn.simpleicons.org/instagram/E4405F" width="45" /> </a> &nbsp;&nbsp;&nbsp; <a href="https://github.com/wqiluc" target="_blank"> <img src="https://cdn.simpleicons.org/github/ffffff" width="45" /> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/lucas-paguetti-pereira-70267339b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"> <a href="https://www.linkedin.com/in/lucas-paguetti-pereira-70267339b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/json.svg" width="110" height="110" style="margin: 0 15px;">
- </div>
+<p align="center">
+  <a href="https://www.instagram.com/lucpaguetti/" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="45"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/wqiluc" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/ffffff" width="45"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/lucas-paguetti-pereira-70267339b/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="45"/>
+  </a>
 
 **🗂️📂 Estrutura do Projeto**:
 
