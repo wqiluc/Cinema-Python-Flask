@@ -34,6 +34,7 @@ Estruturação de um projeto **Flask com templates e CSS**
 
 **🗂️📂 Estrutura do Projeto**:
 
+<pre>
 Cinema Python/
 |
 |-- app.py
@@ -56,7 +57,7 @@ Cinema Python/
 |   `-- alerta_reinicio.js
 |
 |-- img/
-|   `-- **Imagens em .jpeg utilizadas no site**
+|   `-- Imagens em .jpeg utilizadas no site
 |
 `-- templates/
     |-- base.html
@@ -66,6 +67,9 @@ Cinema Python/
     |-- nova_compra.html
     |-- pagamento.html
     `-- resumo.html
+</pre>
+
+
 
 
 **💻 Tecnologias Utilizadas**:
