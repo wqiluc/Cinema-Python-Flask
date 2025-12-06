@@ -70,7 +70,7 @@ Cinema Python/
 </p>
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="90" height="90" style="margin: 0 15px;">
-  <img src="https://raw.githubusercontent.com/wqiluc/Cinema-Python-Flask/main/img/json.jpg" width="100" style="margin: 0 30px;">
+  <img src="https://raw.githubusercontent.com/wqiluc/Cinema-Python-Flask/main/img/json.jpg" width="100" style="margin: 0 15px;">
 </p>
 </p>
 
