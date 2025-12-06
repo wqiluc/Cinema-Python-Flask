@@ -12,7 +12,7 @@ Estruturação de um projeto **Flask com templates e CSS**
 
 **👨🏻‍💻 Autor**:
 - Lucas Paguetti Pereira
-- Cesar School — ADS 🧡💻
+- Cesar School — ADS 🧡💻🎓
 <p align="center">
   <a href="https://www.instagram.com/lucpaguetti/" target="_blank">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" width="45"/>
@@ -34,7 +34,6 @@ Estruturação de um projeto **Flask com templates e CSS**
 
 **🗂️📂 Estrutura do Projeto**:
 
-<pre>
 Cinema Python/
 |
 |-- app.py
@@ -53,8 +52,11 @@ Cinema Python/
 |       `-- Dados_ingressos_cinema.json **(ao rodar o programa pela 1a vez)**
 |
 |-- static/
-|   `-- styles.css 
-|  `-- alerta_reinicio.js
+|   |-- styles.css 
+|   `-- alerta_reinicio.js
+|
+|-- img/
+|   `-- **Imagens em .jpeg utilizadas no site**
 |
 `-- templates/
     |-- base.html
@@ -64,7 +66,7 @@ Cinema Python/
     |-- nova_compra.html
     |-- pagamento.html
     `-- resumo.html
-</pre>
+
 
 **💻 Tecnologias Utilizadas**:
 <p align="center">
