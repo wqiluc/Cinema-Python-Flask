@@ -73,7 +73,7 @@ Cinema Python/
 
 
 
-**💻 Tecnologias Utilizadas**:
+**💻⛏️ Tecnologias Utilizadas**:
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="110" style="margin: 0 30px;">
   <img src="https://raw.githubusercontent.com/wqiluc/Cinema-Python-Flask/main/img/flask.jpg" width="100" style="margin: 0 30px;">
