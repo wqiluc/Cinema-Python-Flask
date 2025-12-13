@@ -75,18 +75,12 @@ Cinema Python/
 
 **💻⛏️ Tecnologias Utilizadas**:
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="110" style="margin: 0 30px;">
-  <img src="https://raw.githubusercontent.com/wqiluc/Cinema-Python-Flask/main/img/flask.jpg" width="100" style="margin: 0 30px;">
+
+<p align="center"> 
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white"/> 
+<img src="https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white"/> 
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> 
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> 
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="110" height="110" style="margin: 0 15px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="110" height="110" style="margin: 0 15px;">
-</p>
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="100" style="margin: 0 15px;">
-  <img src="https://raw.githubusercontent.com/wqiluc/Cinema-Python-Flask/main/img/json.jpg" width="100" style="margin: 0 15px;">
-</p>
-
-
