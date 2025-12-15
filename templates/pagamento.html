@@ -4,36 +4,33 @@
 
 <h1>Pagamento 💰</h1>
 
-<p>Total: R$ {{totalRS}}</p>
-<p>Ingressos desta compra: {{ingressos_usuario}}</p>
+<p>Total: R$ {{ totalRS }}</p>
+<p>Ingressos desta compra: {{ ingressos_usuario }}</p>
 
-<form id="filme" action="{{url_for('resumo')}}" methods="get">
-    <input type="hidden" name="totalRS" value="{{totalRS}}">
-    <input type="hidden" name="qtd" value="{{acumuladores['ingressos_dia']}}">
+<form id="formPagamento" method="get" action="{{ url_for('resumo') }}">
 
-    <button type="button" id="cartao">Cartão</button>
-    <button type="button" id="dinheiro">Dinheiro</button>
+    <input type="hidden" id="total" value="{{ totalRS }}">
 
-    <div id="vd" style="display:none;">
-        <input type="number" step="0.01" id="p" placeholder="R$">
-        <button type="submit" id="cd">Confirmar</button>
+    <div id="campoDinheiro" style="display:none;">
+        <label>Valor pago:</label>
+        <input id="p" name="valor_pago" type="number" step="0.01">
+        <br><br>
     </div>
+
+    <button id="cartao" type="button">
+        Pagar com Cartão 💳
+    </button>
+
+    <button id="dinheiro" type="button">
+        Pagar com Dinheiro 💵
+    </button>
+
+    <br><br>
+
+    <button id="confirmar" type="submit" style="display:none;">
+        Confirmar Pagamento
+    </button>
+
 </form>
 
-<script>
-let total = Number("{{total}}");
-let f = document.getElementById("filme");
-let c = document.getElementById("cartao");
-let d = document.getElementById("dinheiro");
-let vd = document.getElementById("vd");
-let p = document.getElementById("p");
-let cd = document.getElementById("cd");
-
-c.onclick = () => f.submit();
-d.onclick = () => vd.style.display = "block";
-
-cd.onclick = e => {if (parseFloat(p.value) < total) {
-    e.preventDefault();
-    alert("Valor insuficiente");}};
-</script>
 {% endblock %}

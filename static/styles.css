@@ -17,27 +17,23 @@ body {
 @keyframes backgroundPulse {
     0% { background-color: #0B0B0B; }
     50% { background-color: #111111; }
-    100% { background-color: #0B0B0B; }
-}
+    100% { background-color: #0B0B0B; }}
 
 .principal {
     width: 90%;
     max-width: 720px;
     margin-top: 50px;
-    padding-bottom: 60px;
-}
+    padding-bottom: 60px;}
 
 header {
     text-align: center;
-    margin-bottom: 30px;
-}
+    margin-bottom: 30px;}
 
 header h1 {
     font-size: 3rem;
     color: #FFD700;
     text-shadow: 0 0 10px #FFD700, 0 0 20px #00BFFF, 0 0 30px #FFD700;
-    animation: neonPulse 1.8s ease-in-out infinite alternate;
-}
+    animation: neonPulse 1.8s ease-in-out infinite alternate;}
 
 header h2 {
     font-size: 30px;
@@ -47,8 +43,7 @@ header h2 {
 
 @keyframes neonPulse {
     from { text-shadow: 0 0 5px #FFD700, 0 0 10px #00BFFF; }
-    to { text-shadow: 0 0 20px #FFD700, 0 0 40px #00BFFF; }
-}
+    to { text-shadow: 0 0 20px #FFD700, 0 0 40px #00BFFF; }}
 
 .secundaria {
     background: linear-gradient(145deg, #111 0%, #222 100%);
@@ -56,33 +51,28 @@ header h2 {
     border-radius: 20px;
     box-shadow: 0 0 25px rgba(0, 191, 255, 0.4);
     text-align: center;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
+    transition: transform 0.3s ease, box-shadow 0.3s ease;}
 
 .secundaria:hover {
     transform: translateY(-5px);
-    box-shadow: 0 0 40px rgba(0, 42, 255, 0.925);
-}
+    box-shadow: 0 0 40px rgba(0, 42, 255, 0.925);}
 
 .secundaria h2 {
     color: #00BFFF;
     margin-bottom: 30px;
     font-size: 2rem;
     text-shadow: 0 0 5px #00BFFF;
-    animation: titleGlow 2s ease-in-out infinite alternate;
-}
+    animation: titleGlow 2s ease-in-out infinite alternate;}
 
 @keyframes titleGlow {
     from { text-shadow: 0 0 5px #00BFFF; }
-    to { text-shadow: 0 0 20px #00BFFF; }
-}
+    to { text-shadow: 0 0 20px #00BFFF; }}
 
 .secundaria p {
     margin: 10px 0;
     font-size: 1rem;
     color: #FFD700;
-    text-shadow: 0 0 3px #FFD700;
-}
+    text-shadow: 0 0 3px #FFD700;}
 
 .secundaria input[type="number"] {
     padding: 15px;
@@ -93,19 +83,17 @@ header h2 {
     font-size: 1.1rem;
     text-align: center;
     box-shadow: 0 0 10px rgba(255, 215, 0, 0.5);
-    transition: all 0.3s ease;
-}
+    transition: all 0.3s ease;}
 
 .secundaria input[type="number"]:focus {
     outline: none;
     box-shadow: 0 0 20px rgba(0, 191, 255, 0.8);
-    transform: scale(1.05);
-}
+    transform: scale(1.05);}
 
 .secundaria button {
     padding: 15px 30px;
     margin: 10px 5px;
-    background-color: #FFD700;
+    background-color: #FFD700;;
     color: #000;
     font-weight: bold;
     font-size: 1.1rem;
@@ -114,28 +102,24 @@ header h2 {
     cursor: pointer;
     transition: all 0.3s ease;
     box-shadow: 0 0 10px #FFD700;
-    animation: buttonGlow 1.5s ease-in-out infinite alternate;
-}
+    animation: buttonGlow 1.5s ease-in-out infinite alternate;}
 
 .secundaria button:hover {
-    background-color: #faf602;
+    background-color: #ecd960;
     transform: scale(1.15) rotate(-1deg);
-    box-shadow: 0 0 25px #fffefb, 0 0 35px #ffffff;
-}
+    box-shadow: 0 0 25px #0530f2, 0 0 35px #0530f2;}
 
 @keyframes buttonGlow {
-    0% { box-shadow: 0 0 10px #FFD700; }
-    50% { box-shadow: 0 0 20px #FFD700, 0 0 15px #00BFFF; }
-    100% { box-shadow: 0 0 10px #FFD700; }
-}
+    0% { box-shadow: 0 0 10px #003cff; }
+    50% { box-shadow: 0 0 20px #0026ff, 0 0 15px #00BFFF; }
+    100% { box-shadow: 0 0 10px #002fff; }}
 
 footer {
     text-align: center;
     margin-top: 40px;
     color: #888;
     font-size: 0.9rem;
-    text-shadow: 0 0 2px #00BFFF;
-}
+    text-shadow: 0 0 2px #00BFFF;}
 
 @media (max-width: 500px) {
     .secundaria input[type="number"] {

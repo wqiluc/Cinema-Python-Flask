@@ -1,23 +1,17 @@
 {% extends "base.html" %}
 
 {% block header %}
-<h1>Resumo do Ingresso 🎫</h1>
+<h1>Ingresso Confirmado 🎫</h1>
 {% endblock %}
 
 {% block conteudo %}
-<p>Idade: {{idade}}</p>
-<p>Tipo: {{tipo}}</p>
-<p>Valor do ingresso: R${{valor}}</p>
-<p>Total acumulado: R$ {{acumuladores["valor_dia"]}}</p>
-<p>Total de ingressos acumulados: {{acumuladores["ingressos_dia"]}}</p>
+<p>Valor do ingresso: R$ {{ valor }}</p>
 
-<form action="{{url_for('pagamento')}}" methods="get">
-    <input type="hidden" name="subtotal" value="{{acumuladores['valor_dia']}}">
-    <button type="submit">Finalizar Compra</button>
+<form action="{{ url_for('pipoca') }}" method="get">
+    <button type="submit">Escolher Pipoca 🍿</button>
 </form>
 
-<form action="{{url_for('ingresso')}}" method="get">
-    <input type="hidden" name="idade" value="{{idade}}">
-    <button type="submit">Comprar Mais Ingressos</button>
+<form action="{{ url_for('ingresso') }}" method="get">
+    <button type="submit">Continuar comprando🛒</button>
 </form>
 {% endblock %}
