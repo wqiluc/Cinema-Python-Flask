@@ -85,7 +85,7 @@ def zerar_compra():
 
 
 def menu_filmes():
-    return {
+    return [
     # ===== MÁFIA / CRIME 🕴 ===== #
     "O Poderoso Chefão",
     "O Poderoso Chefão II",
@@ -368,7 +368,7 @@ def menu_filmes():
 
     # ===== FUTUROS VINGADORES ===== #
     "Vingadores: Doomsday(Estreia)",
-    "Vingadores: Guerras Secretas(Estreia)"}
+    "Vingadores: Guerras Secretas(Estreia)"]
 
 
 
