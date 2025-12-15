@@ -41,30 +41,29 @@ Cinema Python/
 |-- main.py
 |-- .flaskenv
 |-- LICENSE
-|-- venv/
 |-- procfile
 |-- requirements.txt
 |
 |-- backending/
-|   |-- Cinema.py
+|   |-- cinema.py (frontending)
+    |-- cinema_terminal.py (backending)
 |   |-- gerenciador_dados.py
-|   `-- __init__.py 
+|   |-- __init__.py
+    |-- cores.py 
 |   `-- Dados/
 |       `-- Dados_ingressos_cinema.json <br>
    **(ao rodar o programa pela 1a vez)**
 |
 |-- static/
 |   |-- styles.css 
-|   `-- alerta_reinicio.js
-|
-|-- img/
-|   `-- Imagens em .jpeg utilizadas no site
+|   `-- avisos.js
 |
 `-- templates/
     |-- base.html
-    |-- confirmar.html
     |-- index.html
     |-- ingressos.html
+    |-- pipoca.html
+    |-- confirmar.html
     |-- nova_compra.html
     |-- pagamento.html
     `-- resumo.html
