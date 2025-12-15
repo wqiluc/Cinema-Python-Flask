@@ -75,8 +75,6 @@ Cinema Python/
 **💻⛏️ Tecnologias Utilizadas**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=gpython,html,css,javascript,flask,heroku&theme=dark&size=48"/>
+  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,flask,heroku&theme=dark&size=48"/>
   <img src="https://img.icons8.com/ios-filled/48/ffffff/json.png"/>
-</p>
-  <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white"/>
 </p>
