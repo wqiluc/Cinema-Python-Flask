@@ -46,13 +46,12 @@ Cinema Python/
 |
 |-- backending/
 |   |-- cinema.py (frontending)
-    |-- cinema_terminal.py (backending)
+|   |-- cinema_terminal.py (backending)
 |   |-- gerenciador_dados.py
 |   |-- __init__.py
-    |-- cores.py 
-|   `-- Dados/
-|       `-- Dados_ingressos_cinema.json <br>
-   **(ao rodar o programa pela 1a vez)**
+|   |-- cores.py 
+|   |-- Dados/
+|           |-- dados_gerais.json    **(ao rodar o programa pela 1a vez)**
 |
 |-- static/
 |   |-- styles.css 
