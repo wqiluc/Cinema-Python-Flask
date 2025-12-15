@@ -20,6 +20,10 @@
         </footer>
     </div>
 
-    {% block scripts %}{% endblock %}
+    {% block scripts %}
+    <script src="{{ url_for('static', filename='avisos.js') }}"></script>
+    {% endblock %}
+
+    
 </body>
 </html>

@@ -8,5 +8,7 @@
 <p>Acumulado do dia: R$ {{resumo.total}} 
     | Ingressos vendidos: {{resumo.ingressos}}</p>
 
-<a href="{{url_for('index')}}"><button>Iniciar Nova Compra</button></a>
+<a href="{{url_for('index')}}?reset=true"><button>Iniciar Nova Compra</button></a>
+
 {% endblock %}
+

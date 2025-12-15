@@ -1,4 +1,4 @@
-\{% extends "base.html" %}
+{% extends "base.html" %}
 
 {% block header %}
 <h1>Resumo da Compra 🍿</h1>
@@ -15,5 +15,11 @@
 <p>Meia: {{resumo.meia}}</p>
 <p>Promocional: {{resumo.promocional}}</p>
 <p>Gratuita: {{resumo.gratuita}}</p>
-<a href="{{url_for('index')}}"><button>Nova Compra 🛍️🛒</button></a>
+<p>R$ de combos: {{resumo["pipocaserefisR$"]}}</p>
+
+
+<a href="{{url_for('index')}}?reset=true">
+    <button>Nova Compra 🛍️🛒</button>
+</a>
+
 {% endblock %}
