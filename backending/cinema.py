@@ -111,7 +111,7 @@ def menu_filmes():
 
     # ==== ANDREW GARFIELD ==== #
     "O Espetacular Homem-Aranha (2012)",
-    "O Espetacular Homem-Aranha 2: A ameaça de Electro (2014)"
+    "O Espetacular Homem-Aranha 2: A ameaça de Electro (2014)",
     "O Espetacular Homem-Aranha 3: Sexteto Sinistro (Estreia)",
 
     # ==== TOM HOLLAND ==== #
