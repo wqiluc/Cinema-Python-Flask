@@ -37,6 +37,7 @@ Estruturação de um projeto **Flask com templates e CSS**
 <pre>
 Cinema Python/
 |
+|-- CNAME (url do deploy)
 |-- app.py
 |-- wsgi.py
 |-- main.py
