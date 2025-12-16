@@ -50,6 +50,7 @@ Cinema Python/
 |   |-- gerenciador_dados.py
 |   |-- __init__.py
 |   |-- cores.py 
+|   |-- validacoes.py 
 |   |-- Dados/
 |           |-- dados_gerais.json    **(ao rodar o programa pela 1a vez)**
 |
