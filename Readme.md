@@ -38,6 +38,7 @@ Estruturação de um projeto **Flask com templates e CSS**
 Cinema Python/
 |
 |-- app.py
+|-- wsgi.py
 |-- main.py
 |-- .flaskenv
 |-- LICENSE
@@ -68,8 +69,6 @@ Cinema Python/
     |-- pagamento.html
     `-- resumo.html
 </pre>
-
-
 
 
 **💻⛏️ Tecnologias Utilizadas**
