@@ -1,1 +1,1 @@
-web: guicorn -b :$PORT main:app
+gunicorn wsgi:application --bind 0.0.0.0:8000
