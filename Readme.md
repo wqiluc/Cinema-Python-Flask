@@ -1,27 +1,54 @@
-**🎫🍿🎬 Cinema Interativo em Python (Flask)** 🎬🍿🎫
+<p align="center">
+  <strong>🎫🍿🎬 Cinema Interativo em Python (Flask) 🎬🍿🎫</strong>
+</p>
 
-Sistema de compra de ingressos totalmente interativo, desenvolvido em **Python + Flask**. <br>
+<p align="center">
+Sistema de compra de ingressos totalmente interativo, desenvolvido em <strong>Python + Flask</strong>. <br>
 🐍💙💛⚡️
+</p>
 
+<p align="center">
 Criado para fins educacionais, ajudando outras pessoas a aprenderem:
-Estruturas de repetição;
-Acumuladores;
-Menus;
-Processamento de dados;
-Estruturação de um projeto **Flask com templates e CSS**
+</p>
 
-**🔗 URL do Frontending**: 
-<br>
-**Deploy: Render**
+<p align="center">
+Estruturas de repetição;<br>
+Acumuladores;<br>
+Menus;<br>
+Processamento de dados;<br>
+Estruturação de um projeto <strong>Flask com templates e CSS</strong>
+</p>
+
+---
+
+<p align="center">
+  <strong>🔗 URL do Frontending</strong>
+</p>
+
+<p align="center">
+<strong>
+Deploy: Render
+<img src="https://cdn.simpleicons.org/render/ffffff" width="16" style="vertical-align:middle; margin-left:6px;"/>
+</strong>
+</p>
+
 <p align="center">
   <a href="https://cinema-python-flask.onrender.com/index?reset=true" target="_blank">
     https://cinema-python-flask.onrender.com/index?reset=true
   </a>
 </p>
 
-**👨🏻‍💻 Autor**:
-- Lucas Paguetti Pereira
+---
+
+<p align="center">
+  <strong>👨🏻‍💻 Autor</strong>
+</p>
+
+<p align="center">
+- Lucas Paguetti Pereira <br>
 - Cesar School — ADS 🧡💻🎓
+</p>
+
 <p align="center">
   <a href="https://www.instagram.com/lucpaguetti/" target="_blank">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" width="45"/>
@@ -32,7 +59,8 @@ Estruturação de um projeto **Flask com templates e CSS**
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/lucas-paguetti-pereira-70267339b/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="45"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="45"/>
+  </a>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://discord.com/users/lucaspaguettipereira" target="_blank">
@@ -40,8 +68,11 @@ Estruturação de um projeto **Flask com templates e CSS**
   </a>
 </p>
 
+---
 
-**🗂️📂 Estrutura do Projeto**:
+<p align="center">
+  <strong>🗂️📂 Estrutura do Projeto</strong>
+</p>
 
 <pre>
 Cinema Python.zip
@@ -81,18 +112,14 @@ Cinema Python/
     `-- resumo.html
 </pre>
 
+---
 
-**💻⛏️ Tecnologias Utilizadas**
+<p align="center">
+  <strong>💻⛏️ Tecnologias Utilizadas</strong>
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,javascript,flask&theme=dark&size=48"/>
   <img src="https://img.icons8.com/ios-filled/48/ffffff/json.png"/>
-  <img src="https://cdn.simpleicons.org/render/ffffff" alt="Render Logo" width="48" />
-
+  <img src="https://cdn.simpleicons.org/render/ffffff" width="48"/>
 </p>
-
-
-
-
-
-
