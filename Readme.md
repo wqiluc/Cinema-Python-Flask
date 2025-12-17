@@ -10,8 +10,9 @@ Menus;
 Processamento de dados;
 Estruturação de um projeto **Flask com templates e CSS**
 
-**🔗 URL do Frontending**:
-** Deploy: Render**
+**🔗 URL do Frontending**: 
+<br>
+**Deploy: Render**
 <p align="center">
   <a href="https://cinema-python-flask.onrender.com/index?reset=true" target="_blank">
     https://cinema-python-flask.onrender.com/index?reset=true
