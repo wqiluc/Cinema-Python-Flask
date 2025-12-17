@@ -44,6 +44,7 @@ Estruturação de um projeto **Flask com templates e CSS**
 **🗂️📂 Estrutura do Projeto**:
 
 <pre>
+Cinema Python.zip
 Cinema Python/
 |
 |-- CNAME (url do deploy)
