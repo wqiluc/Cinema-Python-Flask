@@ -12,7 +12,7 @@ Estruturação de um projeto **Flask com templates e CSS**
 
 <p allign="center">
 - 🔗 Url = https://cinema-python-flask.onrender.com/index?reset=true
-
+</p>
 
 **👨🏻‍💻 Autor**:
 - Lucas Paguetti Pereira
