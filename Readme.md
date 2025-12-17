@@ -10,6 +10,10 @@ Menus;
 Processamento de dados;
 Estruturação de um projeto **Flask com templates e CSS**
 
+<p allign="center">
+- 🔗 Url = https://cinema-python-flask.onrender.com/index?reset=true
+
+
 **👨🏻‍💻 Autor**:
 - Lucas Paguetti Pereira
 - Cesar School — ADS 🧡💻🎓
