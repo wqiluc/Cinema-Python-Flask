@@ -13,7 +13,14 @@ from backending.gerenciador_dados import carregar_dados, salvar_dados
 
 app = Flask(__name__)
 
-ARQUIVO_CINEMA = "dados_gerais.json"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+ARQUIVO_CINEMA = os.path.join(
+    BASE_DIR,
+    "backending",
+    "Dados",
+    "dados_gerais.json")
+carregar_dados(ARQUIVO_CINEMA)
+
 carregar_dados(ARQUIVO_CINEMA)
 
 
