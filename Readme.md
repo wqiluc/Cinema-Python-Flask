@@ -10,8 +10,11 @@ Menus;
 Processamento de dados;
 Estruturação de um projeto **Flask com templates e CSS**
 
-<p allign="center">
-- 🔗 Url = https://cinema-python-flask.onrender.com/index?reset=true
+**🔗 URL do Projeto**:
+<p align="center">
+  <a href="https://cinema-python-flask.onrender.com/index?reset=true" target="_blank">
+    https://cinema-python-flask.onrender.com/index?reset=true
+  </a>
 </p>
 
 **👨🏻‍💻 Autor**:
