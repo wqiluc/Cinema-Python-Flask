@@ -41,7 +41,7 @@ Deploy: Render
 ---
 
 <p align="center">
-  <strong>👨🏻‍💻 Autor</strong>
+  <strong>👨🏻‍💻🧙🏻‍♂️ Autor</strong>
 </p>
 
 <p align="center">
