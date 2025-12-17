@@ -10,6 +10,7 @@ from backending.cinema import registrar_pipoca_e_refri
 from backending.cinema import acumuladores
 from backending.cores import MAGENTA, RESET
 from backending.gerenciador_dados import carregar_dados, salvar_dados
+import os
 
 app = Flask(__name__)
 
