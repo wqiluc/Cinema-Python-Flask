@@ -162,7 +162,7 @@ def menu_filmes():
     "O Senhor dos Anéis: O Retorno do Rei",
     "O Hobbit: Uma Jornada Inesperada",
     "O Hobbit: A Desolação de Smaug",
-    "O Hobbit: A B🧗atalha dos Cinco Exércitos",
+    "O Hobbit: A Batalha dos Cinco Exércitos",
     "Harry Potter e a Pedra Filosofal",
     "Harry Potter e a Câmara Secreta",
     "Harry Potter e o Prisioneiro de Azkaban",
