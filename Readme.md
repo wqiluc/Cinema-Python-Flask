@@ -25,12 +25,6 @@ Estruturação de um projeto <strong>Flask com templates e CSS</strong>
   <strong>🔗 URL do Frontending</strong>
 </p>
 
-<p align="center">
-<strong>
-Deploy: Render
-<img src="https://cdn.simpleicons.org/render/ffffff" width="16" style="vertical-align:middle; margin-left:6px;"/>
-</strong>
-</p>
 
 <p align="center">
   <a href="https://cinema-python-flask.onrender.com/index?reset=true" target="_blank">
