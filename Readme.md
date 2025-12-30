@@ -25,6 +25,10 @@ Estruturação de um projeto <strong>Flask com templates e CSS</strong>
   <strong>🔗 URL do Frontending</strong>
 </p>
 
+<p align="center">
+  local host - por enquanto
+</p>
+
 
 ---
 
