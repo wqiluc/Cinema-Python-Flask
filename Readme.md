@@ -109,5 +109,3 @@ Cinema Python/
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,javascript,flask&theme=dark&size=48"/>
   <img src="https://img.icons8.com/ios-filled/48/ffffff/json.png"/>
-  <img src="https://cdn.simpleicons.org/render/ffffff" width="48"/>
-</p>
