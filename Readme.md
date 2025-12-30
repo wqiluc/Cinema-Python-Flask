@@ -26,12 +26,6 @@ Estruturação de um projeto <strong>Flask com templates e CSS</strong>
 </p>
 
 
-<p align="center">
-  <a href="https://cinema-python-flask.onrender.com/index?reset=true" target="_blank">
-    https://cinema-python-flask.onrender.com/index?reset=true
-  </a>
-</p>
-
 ---
 
 <p align="center">
