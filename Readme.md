@@ -63,7 +63,7 @@ Estruturação de um projeto <strong>Flask com templates e CSS</strong>
 ---
 
 <p align="center">
-  <strong>🗂️📂 Estrutura do Projeto</strong>
+  <strong>🗂️📂 Estrutura do Projeto: </strong>
 </p>
 
 <pre>
@@ -107,7 +107,7 @@ Cinema Python/
 ---
 
 <p align="center">
-  <strong>💻⛏️ Tecnologias Utilizadas</strong>
+  <strong>💻⛏️ Tecnologias Utilizadas: </strong>
 </p>
 
 <p align="center">
