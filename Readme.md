@@ -102,6 +102,8 @@ Cinema Python/
     |-- nova_compra.html
     |-- pagamento.html
     `-- resumo.html
+<img src="https://img.shields.io/badge/-Arquitetura-111827?style=flat-square&logo=instructure&logoColor=white" 
+     style="vertical-align:middle; margin-left:5px;"/>
 </pre>
 
 ---
