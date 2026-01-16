@@ -25,7 +25,7 @@ def principal():
 
     while True:
         def menu_principal():
-            print(f"{MAGENTA_CLARO}--- CINEMA PYTHON 🎞️ ---{RESET}")
+            print(f"\n {MAGENTA_CLARO}--- CINEMA PYTHON 🎞️ ---{RESET}")
             print("\nInsira a Idade do cliente e qual ingresso deseja")
         menu_principal()
 
