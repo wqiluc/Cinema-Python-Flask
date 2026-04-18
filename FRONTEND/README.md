@@ -23,3 +23,16 @@ Responsável pela camada de apresentação. Define o design, layout, tipografia 
 <h2 align="left">Interatividade (Pasta <code>static/js/</code>) <br>
 <img src="https://img.shields.io/badge/-JavaScript-111827?style=flat&logo=javascript&logoColor=F7DF1E"/></h2>
 Gerencia a lógica no lado do cliente (Client-Side). Processa eventos de interface, validações imediatas e manipulação do DOM, tornando a navegação mais fluida e interativa para o usuário final.
+
+<h2 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: white; text-transform: uppercase; letter-spacing: 2px; border-bottom: 2px solid yellow; padding-bottom: 10px;">
+  Visual🍿🎞️ 
+</h2>
+
+<div align="center">
+  <img src="./img/cinema1.jpeg" width="410"><br><br>
+  <img src="./img/cinema2.jpeg" width="410"><br><br>
+  <img src="./img/cinema3.jpeg" width="410"><br><br>
+  <img src="./img/cinema4.jpeg" width="410"><br><br>
+  <img src="./img/cinema5.jpeg" width="410"><br><br>
+  <img src="./img/cinema6.jpeg" width="410">
+</div>
