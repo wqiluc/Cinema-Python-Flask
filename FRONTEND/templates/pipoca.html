@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+
+{% block header %}
+<h1>Pipoca e Refrigerante 🍿🥤</h1>
+{% endblock %}
+
+{% block conteudo %}
+<form action="{{ url_for('adicionar_pipoca') }}" method="get">
+
+    <input type="hidden" name="nome" id="combo_nome">
+    <input type="hidden" name="preco" id="combo_preco">
+
+    {% for nome, preco in combos.items() %}
+    <div class="combo">
+        <h2>{{ nome }}</h2>
+        <p>Pipoca + Refrigerante</p>
+        <strong>Preço: R$ {{ preco }}</strong>
+        <br><br>
+
+        <button
+            type="button"
+            data-nome="{{ nome }}"
+            data-preco="{{ preco }}">
+            Selecionar🍿
+        </button>
+    </div>
+    {% endfor %}
+
+    <br>
+
+    <button type="submit" id="confirmar compra">
+        Confirmar compra✅
+    </button>
+
+</form>
+{% endblock %}

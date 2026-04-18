@@ -1,3 +1,3 @@
-from app import app
+from BACKEND.app import app
 
 application = app
