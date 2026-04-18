@@ -86,17 +86,7 @@ flask run
 ```
 
 <h2 align="center"> 🔑 Versões das dependências do projeto: </h2>
-
-<img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="28" />
-  <img src="https://img.shields.io/badge/HTML5-5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="28" />
-  <img src="https://img.shields.io/badge/CSS3-3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="28" />
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" height="28" />
-  <img src="https://img.shields.io/badge/Flask-3.1.2-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" height="28" />
-  <img src="https://img.shields.io/badge/Jinja2-3.1.6-B41717?style=for-the-badge&logo=jinja&logoColor=white" alt="Jinja2" height="28" />
-  <img src="https://img.shields.io/badge/Blinker-1.9.0-3776AB?style=for-the-badge" alt="Blinker" height="28" />
-  <img src="https://img.shields.io/badge/Click-8.3.1-404659?style=for-the-badge" alt="Click" height="28" />
-  <img src="https://img.shields.io/badge/Gunicorn-23.0.0-499836?style=for-the-badge" alt="Gunicorn" height="28" />
-  <img src="https://img.shields.io/badge/Itsdangerous-2.2.0-F7DF1E?style=for-the-badge&logoColor=black" alt="Itsdangerous" height="28" />
-  <img src="https://img.shields.io/badge/MarkupSafe-3.0.3-1572B6?style=for-the-badge" alt="MarkupSafe" height="28" />
-  <img src="https://img.shields.io/badge/Packaging-25.0-3178C6?style=for-the-badge" alt="Packaging" height="28" />
-  <img src="https://img.shields.io/badge/Werkzeug-3.1.3-4B32C3?style=for-the-badge" alt="Werkzeug" height="28" />
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="28" /> <img src="https://img.shields.io/badge/HTML5-5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="28" />
+<img src="https://img.shields.io/badge/CSS3-3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="28" /> <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" height="28" /> <img src="https://img.shields.io/badge/Flask-3.1.2-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" height="28" /> <img src="https://img.shields.io/badge/Jinja2-3.1.6-B41717?style=for-the-badge&logo=jinja&logoColor=white" alt="Jinja2" height="28" /> <img src="https://img.shields.io/badge/Blinker-1.9.0-3776AB?style=for-the-badge" alt="Blinker" height="28" /> <img src="https://img.shields.io/badge/Click-8.3.1-404659?style=for-the-badge" alt="Click" height="28" /> <img src="https://img.shields.io/badge/Gunicorn-23.0.0-499836?style=for-the-badge" alt="Gunicorn" height="28" /> <img src="https://img.shields.io/badge/Itsdangerous-2.2.0-F7DF1E?style=for-the-badge&logoColor=black" alt="Itsdangerous" height="28" /> <img src="https://img.shields.io/badge/MarkupSafe-3.0.3-1572B6?style=for-the-badge" alt="MarkupSafe" height="28" /> <img src="https://img.shields.io/badge/Packaging-25.0-3178C6?style=for-the-badge" alt="Packaging" height="28" /> <img src="https://img.shields.io/badge/Werkzeug-3.1.3-4B32C3?style=for-the-badge" alt="Werkzeug" height="28" />
+</div>
