@@ -29,10 +29,10 @@ Gerencia a lógica no lado do cliente (Client-Side). Processa eventos de interfa
 </h2>
 
 <div align="center">
-  <img src="./img/cinema1.jpeg" width="410"><br><br>
-  <img src="./img/cinema2.jpeg" width="410"><br><br>
-  <img src="./img/cinema3.jpeg" width="410"><br><br>
-  <img src="./img/cinema4.jpeg" width="410"><br><br>
-  <img src="./img/cinema5.jpeg" width="410"><br><br>
-  <img src="./img/cinema6.jpeg" width="410">
+  <img src="./img/cinema1.jpeg" width="510"><br><br>
+  <img src="./img/cinema2.jpeg" width="510"><br><br>
+  <img src="./img/cinema3.jpeg" width="510"><br><br>
+  <img src="./img/cinema4.jpeg" width="510"><br><br>
+  <img src="./img/cinema5.jpeg" width="510"><br><br>
+  <img src="./img/cinema6.jpeg" width="510">
 </div>
