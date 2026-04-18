@@ -1,1 +1,21 @@
-*__pycache__/
+# Pastas de cache e Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais (evite subir isso para o GitHub!)
+venv/
+env/
+.env/
+flaskenv
+
+# Arquivos do sistema (macOS)
+.DS_Store
+
+# Pastas do seu projeto que não devem ir para o Git
+# Caso queira ignorar seus dados JSON (se tiverem dados reais)
+# BACKEND/json/*.json
+
+# Editor
+.vscode/
+.idea/

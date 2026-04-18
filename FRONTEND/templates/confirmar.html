@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block header %}
+<h1>Ingresso Confirmado 🎫</h1>
+{% endblock %}
+
+{% block conteudo %}
+<p>Valor do ingresso: R$ {{ valor }}</p>
+
+<form action="{{ url_for('pipoca') }}" method="get">
+    <button type="submit">Escolher Pipoca 🍿</button>
+</form>
+
+<form action="{{ url_for('ingresso') }}" method="get">
+    <button type="submit">Continuar comprando🛒</button>
+</form>
+{% endblock %}

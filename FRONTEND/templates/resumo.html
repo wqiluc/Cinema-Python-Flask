@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{% block header %}
+<h1>Resumo da Compra 🍿</h1>
+{% endblock %}
+
+{% block conteudo %}
+<p>Total pago nesta compra: R$ {{totalRS}}</p>
+<p>Ingressos desta compra: {{ingressos_usuario}}</p>
+
+<h2>Resumo do Dia</h2>
+<p>Total arrecadado até agora: R$ {{resumo.totalRS}}</p>
+<p>Total de ingressos vendidos até agora: {{resumo.ingressos}}</p>
+<p>Inteira: {{resumo.inteira}}</p>
+<p>Meia: {{resumo.meia}}</p>
+<p>Promocional: {{resumo.promocional}}</p>
+<p>Gratuita: {{resumo.gratuita}}</p>
+<p>R$ de combos: {{resumo["pipocaserefisR$"]}}</p>
+
+
+<a href="{{url_for('index')}}?reset=true">
+    <button>Nova Compra 🛍️🛒</button>
+</a>
+
+{% endblock %}
